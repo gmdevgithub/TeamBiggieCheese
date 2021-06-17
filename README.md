@@ -3,16 +3,16 @@
 
 # TASKS TO LEARN ABOUT:
 
-Bitcoin whitepapers:
-Bitcoin SV
-Big blocks – high transaction volumes with low fees
-SPV callbacks
-Instant payment verification
-PEER-TO-PEER APPLICATIONS
-SPV Channels service
-Merchant API (mAPI)
-REST
-Docker or Vagrant container(s)
+- Bitcoin whitepapers:
+- Bitcoin SV
+- Big blocks – high transaction volumes with low fees
+- SPV callbacks
+- Instant payment verification
+- PEER-TO-PEER APPLICATIONS
+- SPV Channels service
+- Merchant API (mAPI)
+- REST
+- Docker or Vagrant container(s)
 
 # FOR THE PROJECT:
 

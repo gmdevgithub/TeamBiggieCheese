@@ -14,15 +14,30 @@
 # TASKS TO LEARN ABOUT:
 
 - Bitcoin whitepapers: [Whitepaperlink](https://bitcoinassociation.net/wp-content/uploads/2019/02/Bitcoin-whitepaper.pdf)
+  - Essentially all you need to know is , the more the blockchain grows, the less of a chance that attackers will be able to override the network
+  
 - Bitcoin SV
-- Big blocks – high transaction volumes with low fees
-- SPV callbacks
-- Instant payment verification
+
 - PEER-TO-PEER APPLICATIONS
-- SPV Channels service
-- Merchant API (mAPI)
-- REST
+
 - Docker or Vagrant container(s)
+
+- Git
+
+- Big blocks – high transaction volumes with low fees
+
+- SPV callbacks
+
+- Instant payment verification
+
+
+
+- SPV Channels service
+
+- Merchant API (mAPI)
+
+- REST
+
 
 # FOR THE PROJECT:
 - any type of application that involves direct interaction between participants on the Bitcoin network. 

@@ -1,5 +1,15 @@
 # TeamBiggieCheese
 
+# How to get started: 
+- Setup
+  - First create a folder on your desktop
+  - Use BASH or another shell to clone this repo from github 
+  - Make sure you're on the MASTER branch and pull/verify 
+  - Check folder structure to make sure all content is present
+  - Create A new branch if needed before continuing 
+- Download
+- Run
+
 
 # TASKS TO LEARN ABOUT:
 

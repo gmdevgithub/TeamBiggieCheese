@@ -1,6 +1,6 @@
 # TeamBiggieCheese
 
-# How to get started: 
+# How to get started on the code: 
 - Setup
   - First create a folder on your desktop
   - Use BASH or another shell to clone this repo from github 
@@ -13,7 +13,7 @@
 
 # TASKS TO LEARN ABOUT:
 
-- Bitcoin whitepapers:
+- Bitcoin whitepapers: [Whitepaperlink](https://bitcoinassociation.net/wp-content/uploads/2019/02/Bitcoin-whitepaper.pdf)
 - Bitcoin SV
 - Big blocks – high transaction volumes with low fees
 - SPV callbacks

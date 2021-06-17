@@ -1,3 +1,6 @@
+![ImageofNormalDirecton](https://cdn.discordapp.com/attachments/753039229545742357/854973038114242590/IMG_20210617_013634_645.jpg)
+
+
 # TeamBiggieCheese
 
 # How to get started on the code: 

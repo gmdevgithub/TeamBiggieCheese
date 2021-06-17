@@ -15,18 +15,17 @@
 - Docker or Vagrant container(s)
 
 # FOR THE PROJECT:
+- any type of application that involves direct interaction between participants on the Bitcoin network. 
 
-any type of application that involves direct interaction between participants on the Bitcoin network. 
+- If external resources are required, an install/setup script should be included.
 
-If external resources are required, an install/setup script should be included.
+- Big blocks – high transaction volumes with low fees
 
-Big blocks – high transaction volumes with low fees
+- SPV callbacks
 
-SPV callbacks
+- Instant payment verification
 
-Instant payment verification
-
-*Docker or Vagrant container(s)
+- *Docker or Vagrant container(s)
 
 
 

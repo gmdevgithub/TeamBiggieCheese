@@ -1,28 +1,36 @@
 # TeamBiggieCheese
 
-## What to do 
 
-You should build an application that leverages the unique properties of Bitcoin SV:
+# TASKS TO LEARN ABOUT:
 
-### Big blocks – high transaction volumes with low fees
+Bitcoin whitepapers:
+Bitcoin SV
+Big blocks – high transaction volumes with low fees
+SPV callbacks
+Instant payment verification
+PEER-TO-PEER APPLICATIONS
+SPV Channels service
+Merchant API (mAPI)
+REST
+Docker or Vagrant container(s)
 
-### SPV callbacks
+# FOR THE PROJECT:
 
-### Instant payment verification
+any type of application that involves direct interaction between participants on the Bitcoin network. 
 
-You may use any code libraries as part of your project, but they should be clearly separated (in a different directory) to your original code.
+If external resources are required, an install/setup script should be included.
 
-### THEME: PEER-TO-PEER APPLICATIONS
+Big blocks – high transaction volumes with low fees
 
-The theme of the 4th Bitcoin SV Hackathon is 'peer-to-peer applications' - not just payments, but any type of application that involves direct interaction between participants on the Bitcoin network. 
+SPV callbacks
 
-Hackathon entrants are tasked with leveraging the recently released *SPV Channels service* as part of their application to facilitate communication across the network, as well as interacting with the Bitcoin network directly via the *Merchant API (mAPI).* 
+Instant payment verification
 
-For desktop applications, the SPV Channels service offers a simple **REST** interface
+*Docker or Vagrant container(s)
 
-### Remember too, that your entry can address a smaller part of a bigger problem. The code component is meant to be a proof of concept. Make your entry as functional as possible, but if you need to, mock-up parts of other process flows - It is acceptable to demonstrate how your solution and its core components work.
 
-#### MINIMUM REQUIREMENTS
+
+#### MINIMUM REQUIREMENTS FROM DEVPOST 
 -1 Code submission using a GitHub repository named after your team.
 
 -2 There should be one single Git repository for your submission. If external resorces are required, an install/setup script should be included.
@@ -36,8 +44,3 @@ For desktop applications, the SPV Channels service offers a simple **REST** inte
 ## OPTIONAL REQUIREMENTS
 A working application and/or website.
 
-especially if your own development has dependencies installed that you are not aware of. If these are undocumented in your submission materials, it may be difficult to get your application to build without background knowledge of you work or the tech stack you are using.
-
-##  If you only have one image, then a Dockerfile in the repo or hosted publicly on Docker Hub is acceptable (with documentation on running the container). If you have multiple images, then a docker-compose in the repo is also acceptable. 
-
-Docker will be helpful in specific cases where we need to run your code, so if your project entails the creation of a library, for example, then Docker is not necessary.

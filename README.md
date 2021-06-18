@@ -21,11 +21,11 @@
 - Bitcoin whitepapers: [Whitepaperlink](https://bitcoinassociation.net/wp-content/uploads/2019/02/Bitcoin-whitepaper.pdf)
   - Essentially all you need to know is , the more the blockchain grows, the less of a chance that attackers will be able to override the network
   
-- Bitcoin SV
+- Bitcoin SV :  [What is BitcoinSV ](https://www.youtube.com/watch?v=qlhsNqnhPsM)
 
 - PEER-TO-PEER APPLICATIONS
 
-- Docker or Vagrant container(s)
+- Docker or Vagrant container(s): [What is Docker?](https://www.youtube.com/watch?v=_dfLOzuIg2o&t=258s)
   - Docker will "Dockerize" our project so that it can run on any machine 
   - Basically a simiar concept to "VM's" But instead of having to talk to a fake OS through other means, each docker image has it's own OS
   - For example if you look as how many processes are running in the cointainer, it will start from 1. This is because the process does not know about any other processes on your computer.  

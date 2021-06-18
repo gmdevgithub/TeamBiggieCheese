@@ -3,6 +3,8 @@
 
 # TeamBiggieCheese
 
+- How to write in markdown ( this document was written in markdown ): [MD](https://www.markdownguide.org/basic-syntax/)
+
 # How to get started on the code: 
 - Setup
   - First create a folder on your desktop

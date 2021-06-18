@@ -33,6 +33,7 @@
   - For example if you look as how many processes are running in the cointainer, it will start from 1. This is because the process does not know about any other processes on your computer.  
   - Download Docker software, and extensions for VScode
   - Our project will need a special docker file , and possible github actions in order to create an *image* of our project
+  -  [OMG YES A MOSH VIDEO !!](https://www.youtube.com/watch?v=pTFZFxd4hOI)
 
 - Git
   -Source control. Also automates the docker process 
@@ -41,18 +42,17 @@
   -[What is Big blocks?](https://www.youtube.com/watch?v=M_GmiapVJAQ)
   - [BitcoinsSV's offical site explanation](https://bitcoinsv.com/en/learn)
   - ![BSV](https://cms.bitcoinsv.com//uploads/6703cb96dc5b4606a0bff56e9296adc8.jpg)
+ 
+- Instant payment verification ?
+  - Could not find anything on this yet 
+
+- REST [Rest overview with MOSH!!! ](https://www.youtube.com/watch?v=SLwpqD8n3d0)
 
 - SPV callbacks
+- SPV Channels service [Github link to SPV ](https://github.com/bitcoin-sv-specs/brfc-spvchannels#1-Create-Channel)
 
-- Instant payment verification
+- Merchant API (mAPI) [Github link to SPV ](https://github.com/bitcoin-sv/merchantapi-reference)
 
-
-
-- SPV Channels service
-
-- Merchant API (mAPI)
-
-- REST
 
 
 # FOR THE PROJECT:

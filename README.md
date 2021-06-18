@@ -38,6 +38,9 @@
   -Source control. Also automates the docker process 
 
 - Big blocks – high transaction volumes with low fees
+  -[What is Big blocks?](https://www.youtube.com/watch?v=M_GmiapVJAQ)
+  - [BitcoinsSV's offical site explanation](https://bitcoinsv.com/en/learn)
+  - ![BSV](https://cms.bitcoinsv.com//uploads/6703cb96dc5b4606a0bff56e9296adc8.jpg)
 
 - SPV callbacks
 

@@ -35,6 +35,7 @@
   - Our project will need a special docker file , and possible github actions in order to create an *image* of our project
 
 - Git
+  -Source control. Also automates the docker process 
 
 - Big blocks – high transaction volumes with low fees
 

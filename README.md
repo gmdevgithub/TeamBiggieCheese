@@ -9,11 +9,11 @@
 - Setup
   - First create a folder on your desktop
   - Use BASH or another shell to clone this repo from github 
+  - Drag that folder into VScode
   - Make sure you're on the MASTER branch and pull/verify 
   - Check folder structure to make sure all content is present
   - Create A new branch if needed before continuing 
-- Download
-- Run
+
 
 
 # TASKS TO LEARN ABOUT:
@@ -26,6 +26,11 @@
 - PEER-TO-PEER APPLICATIONS
 
 - Docker or Vagrant container(s)
+  - Docker will "Dockerize" our project so that it can run on any machine 
+  - Basically a simiar concept to "VM's" But instead of having to talk to a fake OS through other means, each docker image has it's own OS
+  - For example if you look as how many processes are running in the cointainer, it will start from 1. This is because the process does not know about any other processes on your computer.  
+  - Download Docker software, and extensions for VScode
+  - Our project will need a special docker file , and possible github actions in order to create an *image* of our project
 
 - Git
 

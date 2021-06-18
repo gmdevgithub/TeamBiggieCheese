@@ -22,6 +22,7 @@
   - Essentially all you need to know is , the more the blockchain grows, the less of a chance that attackers will be able to override the network
   
 - Bitcoin SV :  [What is BitcoinSV ](https://www.youtube.com/watch?v=qlhsNqnhPsM)
+  - A fork of bitcoin CASH, which is a fork of Bitcoin lmao 
 
 - PEER-TO-PEER APPLICATIONS
 

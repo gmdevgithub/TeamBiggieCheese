@@ -24,7 +24,8 @@
 - Bitcoin SV :  [What is BitcoinSV ](https://www.youtube.com/watch?v=qlhsNqnhPsM)
   - A fork of bitcoin CASH, which is a fork of Bitcoin lmao 
 
-- PEER-TO-PEER APPLICATIONS
+- PEER-TO-PEER APPLICATIONS:  [What is P2P ](https://www.youtube.com/watch?v=s-Fs_Ucy_EU)
+  - Direct communication between 2 parties, no third party. Decentralized network 
 
 - Docker or Vagrant container(s): [What is Docker?](https://www.youtube.com/watch?v=_dfLOzuIg2o&t=258s)
   - Docker will "Dockerize" our project so that it can run on any machine 
